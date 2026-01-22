@@ -1,0 +1,24 @@
+# Core LLM runtimes
+ollama>=0.1.0
+openai>=1.10.0
+google-generativeai>=0.4.1
+
+# LangChain stack (optional - for future LangGraph integration)
+langchain>=0.1.0
+langgraph>=0.0.20
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+
+# Tools & retrieval
+tavily-python>=0.3.0
+numpy>=1.24.0
+faiss-cpu>=1.7.4
+requests>=2.31.0
+
+# App / UI / environment
+streamlit>=1.29.0
+python-dotenv>=1.0.0
+
+# Development tools
+pytest>=7.4.0
+black>=23.0.0
