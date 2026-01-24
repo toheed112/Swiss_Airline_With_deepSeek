@@ -1,6 +1,6 @@
-# Swiss Airlines Chatbot (LangGraph-Inspired)
+# NOTE This project is under testing phase and it is Updated version of Airline System to make it less helucinated and corrcet out put  
 
-Adapted for Ollama (conversational AI), OpenAI (embeddings), Tavily (search).
+Adapted for Ollama deepseek(conversational AI), OpenAI (embeddings,tool calling), Tavily (websearch),and Gemenie (for refine answer).
 
 ## Setup
 1. Edit .env with API keys (OpenAI, Tavily).
