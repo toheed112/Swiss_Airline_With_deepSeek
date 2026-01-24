@@ -1,4 +1,4 @@
-# NOTE This project is under testing phase and it is Updated version of Airline System to make it less helucinated and corrcet out put  
+# NOTE This project is under testing phase and it is Updated version of Airline System to make it less hallucinated and correct out put  
 
 Adapted for Ollama deepseek(conversational AI), OpenAI (embeddings,tool calling), Tavily (websearch),and Gemenie (for refine answer).
 
